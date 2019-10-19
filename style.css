@@ -1,0 +1,56 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+
+
+/*
+.contenedor-250 {
+        background: rgb(105, 0, 255, 0.9);
+        margin: 2px;
+        margin-top: 2em;
+        padding: 5px;
+        flex: 1 6 25%;
+        order: 1;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 20px;
+        width: 1500px;
+        margin-left: 10em;
+    }
+
+
+.imagen{
+
+    margin-left: 20em;
+    width: 25em;
+    height: 20em;
+
+}
+
+.information{
+
+    margin-left: 15em;
+
+}
+
+.tabla{
+
+
+
+}
+
+.tabla2{
+
+
+}*/
